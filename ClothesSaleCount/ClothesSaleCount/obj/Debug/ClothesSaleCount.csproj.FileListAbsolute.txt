@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\bin\Debug\ClothesSaleCount.exe.config
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\bin\Debug\ClothesSaleCount.exe
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\bin\Debug\ClothesSaleCount.pdb
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\obj\Debug\ClothesSaleCount.csprojAssemblyReference.cache
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\obj\Debug\ClothesSaleCount.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\obj\Debug\ClothesSaleCount.exe
+D:\Users\Won\Desktop\作品彙整\ClothesSaleCount\ClothesSaleCount\obj\Debug\ClothesSaleCount.pdb
